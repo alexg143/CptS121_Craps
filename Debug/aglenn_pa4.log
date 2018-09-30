@@ -1,0 +1,14 @@
+﻿  main.c
+  craps_functions.c
+c:\users\alex\desktop\wsu_sem_2\cpts\aglenn_pa4\aglenn_pa4\craps_functions.c(29): warning C4129: 'E': unrecognized character escape sequence
+c:\users\alex\desktop\wsu_sem_2\cpts\aglenn_pa4\aglenn_pa4\craps_functions.c(53): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\alex\desktop\wsu_sem_2\cpts\aglenn_pa4\aglenn_pa4\craps_functions.c(72): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\alex\desktop\wsu_sem_2\cpts\aglenn_pa4\aglenn_pa4\craps_functions.c(308): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\alex\desktop\wsu_sem_2\cpts\aglenn_pa4\aglenn_pa4\craps_functions.c(337): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+  Generating Code...
+  aglenn_pa4.vcxproj -> C:\Users\Alex\Desktop\WSU_Sem_2\CPTS\aglenn_pa4\Debug\aglenn_pa4.exe
+  aglenn_pa4.vcxproj -> C:\Users\Alex\Desktop\WSU_Sem_2\CPTS\aglenn_pa4\Debug\aglenn_pa4.pdb (Full PDB)
